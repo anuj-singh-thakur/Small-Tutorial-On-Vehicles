@@ -1,0 +1,9 @@
+bike
+boat
+car
+jeep
+auto
+truck
+train
+bus
+ev

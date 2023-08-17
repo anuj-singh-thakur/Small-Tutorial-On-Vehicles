@@ -1,0 +1,9 @@
+files/images/bike.jpeg
+files\images\boat.jpeg
+files\images\car.jpeg
+files\images\jeep.jpeg
+files\images\auto.jpg
+files\images\truck.jpg
+files\images\train.jpg
+files\images\bus.jpeg
+files\images\ev.jpg

@@ -1,0 +1,10 @@
+boat
+bus
+car
+jeep
+train
+truck
+bike
+scooter
+taxi
+tonga
